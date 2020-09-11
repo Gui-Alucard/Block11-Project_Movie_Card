@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Block11-Project_Movie_Card/static/css/main.5d58c8a2.chunk.css",
+    "main.js": "/Block11-Project_Movie_Card/static/js/main.1cb71988.chunk.js",
+    "main.js.map": "/Block11-Project_Movie_Card/static/js/main.1cb71988.chunk.js.map",
+    "runtime-main.js": "/Block11-Project_Movie_Card/static/js/runtime-main.571b4bc8.js",
+    "runtime-main.js.map": "/Block11-Project_Movie_Card/static/js/runtime-main.571b4bc8.js.map",
+    "static/js/2.f70bd6bb.chunk.js": "/Block11-Project_Movie_Card/static/js/2.f70bd6bb.chunk.js",
+    "static/js/2.f70bd6bb.chunk.js.map": "/Block11-Project_Movie_Card/static/js/2.f70bd6bb.chunk.js.map",
+    "index.html": "/Block11-Project_Movie_Card/index.html",
+    "precache-manifest.e387a291a7027454219ba7d9f04d3006.js": "/Block11-Project_Movie_Card/precache-manifest.e387a291a7027454219ba7d9f04d3006.js",
+    "service-worker.js": "/Block11-Project_Movie_Card/service-worker.js",
+    "static/css/main.5d58c8a2.chunk.css.map": "/Block11-Project_Movie_Card/static/css/main.5d58c8a2.chunk.css.map",
+    "static/js/2.f70bd6bb.chunk.js.LICENSE.txt": "/Block11-Project_Movie_Card/static/js/2.f70bd6bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.571b4bc8.js",
+    "static/js/2.f70bd6bb.chunk.js",
+    "static/css/main.5d58c8a2.chunk.css",
+    "static/js/main.1cb71988.chunk.js"
+  ]
+}
